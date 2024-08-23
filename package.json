@@ -1,8 +1,10 @@
 {
-	"name": "clicrypto",
-	"version": "1.0.0",
+	"name": "@jignesh119/clicrypto",
+	"version": "1.0.1",
 	"license": "MIT",
-	"bin": "./src/cli.js",
+	"bin": {
+		"clicrypto": "./src/cli.js"
+	},
 	"description": "Cli to get the current price of a cryptocurrency",
 	"engines": {
 		"node": ">=10"

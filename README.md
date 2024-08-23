@@ -15,7 +15,7 @@ CliCrypto is a command-line tool built with Node.js and the Ink library that all
 You can install CliCrypto globally using npm:
 
 ```bash
-npm install -g clicrypto
+npm install -g @jignesh119/clicrypto
 ```
 
 Alternatively, you can clone the project from GitHub and install it locally:
