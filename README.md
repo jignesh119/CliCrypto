@@ -10,6 +10,10 @@ CliCrypto is a command-line tool built with Node.js and the Ink library that all
 - **Cross-Platform**: Works on macOS, Linux, and Windows.
 - **Lightweight**: Minimal dependencies, easy to install and use.
 
+## Demo
+
+![](https://github.com/jignesh119/CliCrypto/blob/main/assets/demo.gif)
+
 ## Installation
 
 You can install CliCrypto globally using npm:
